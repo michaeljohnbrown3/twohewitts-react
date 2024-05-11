@@ -1,0 +1,28 @@
+[
+  {
+    "id": "lawn",
+    "title": "Premium lawn services",
+    "description": "We provide lawn maintenance services by the month or per cut. We cater to each property, as all properties have different needs. TWO Hewitts, Inc. will always strive to meet customers needs when it comes to the frequency, individuality, and quality of the services we provide.",
+    "img": "https://ik.imagekit.io/mjb06h/TwoHewitts/shade/shade16.jpg?tr=w-300"
+  },
+  {
+    "id": "landscape",
+    "title": "Innovative landscaping",
+    "description": "TWO Hewitts, Inc. offers landscape design and installation. We take the time to meet with the customer to bring their ideas to fruition. From start to finish, we make sure the job is done right!",
+    "img": "https://ik.imagekit.io/mjb06h/TwoHewitts/turf/turf3.jpg?tr=w-300"
+  },
+  {
+    "id": "other",
+    "title": "Other Services",
+    "description": [
+      "Irrogation Design, Installation, and Maintenance",
+      "Landscape Lighting",
+      "Fence Repair and Gate Installation",
+      "Fountain and Water Features",
+      "Artificial Turf",
+      "Hardscapes",
+      "Artificial Ivy Walls"
+    ],
+    "img": "https://ik.imagekit.io/mjb06h/TwoHewitts/fountains/fountains7.jpg?tr=w-300"
+  }
+]

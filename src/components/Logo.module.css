@@ -1,0 +1,40 @@
+.logo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-primary);
+  color: var(--color-white);
+  text-decoration: none;
+  text-transform: uppercase;
+  margin: 0 1.5rem;
+  text-align: center;
+}
+
+.logo h1 {
+  font-size: 3.2rem;
+  justify-self: center;
+  border: solid;
+  border-width: 0.5rem;
+  border-color: var(--color-white);
+  padding: 1rem 0.5rem 0.2rem 0.5rem;
+  color: var(--color-white);
+}
+
+.logo h2 {
+  font-size: 1.6rem;
+  /* font-style: italic; */
+  font-weight: 500;
+  padding-top: 0.6rem;
+  color: var(--color-white);
+}
+
+@media screen and (max-width: 380px) {
+  .logo h1 {
+    font-size: 2.1rem;
+  }
+
+  .logo h2 {
+    font-size: 1rem;
+  }
+}

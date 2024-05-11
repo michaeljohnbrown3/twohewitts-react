@@ -1,0 +1,29 @@
+.btn {
+  color: inherit;
+  width: max-content;
+  text-transform: uppercase;
+  padding: 1.3rem 1.2rem 1rem 1.2rem;
+  font-family: inherit;
+  font-size: 2rem;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.primary {
+  color: var(--color-white);
+  background-color: var(--color-primary);
+}
+
+.primary:hover {
+  background-color: var(--color-primary-light);
+}
+.card {
+  color: var(--color-white);
+  background-color: var(--color-primary);
+  font-size: 1.2rem;
+}
+
+.card:hover {
+  background-color: var(--color-primary-light);
+}
