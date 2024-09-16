@@ -1,6 +1,6 @@
 .services {
-  height: calc(100vh - 5rem);
-  margin: 2.5rem;
+  height: calc(100vh);
+  /* margin: 2.5rem; */
   background-color: transparent;
   display: flex;
   flex-direction: column;

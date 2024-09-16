@@ -7,8 +7,8 @@ function About() {
   return (
     <main className={styles.about}>
       <LazyBackground
-        height={window.innerWidth < 500 ? "100vh" : "calc(100vh - 5rem)"}
-        width={window.innerWidth < 500 ? "100vw" : "calc(100vw - 5rem)"}
+        height={window.innerWidth < 500 ? "100vh" : "calc(100vh)"}
+        width={window.innerWidth < 500 ? "100vw" : "calc(100vw)"}
         src={"https://ik.imagekit.io/mjb06h/TwoHewitts/gates/gates2.jpg"}
         preload={
           "https://ik.imagekit.io/mjb06h/TwoHewitts/gates/gates2.jpg?tr=w-400,bl-4"

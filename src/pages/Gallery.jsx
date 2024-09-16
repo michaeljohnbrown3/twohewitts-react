@@ -5,6 +5,7 @@ import styles from "./Gallery.module.css";
 import * as galleryData from "../../data/gallery.json";
 import { useEffect, useState } from "react";
 import GalleryImage from "../components/GalleryImage";
+import { NavLink } from "react-router-dom";
 
 const gallery = galleryData.default;
 const gallerySections = [...new Set(gallery.map((img) => img.section))];
